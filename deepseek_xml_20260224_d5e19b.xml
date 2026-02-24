@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>المصحف المعلم - الشيخ محمد صديق المنشاوي</title>
+    <link>https://example.com/</link>
+    <description>المصحف المعلم (ترديد الأطفال) كامل بصوت الشيخ محمد صديق المنشاوي - رواية حفص عن عاصم</description>
+    <language>ar</language>
+    <author>محمد صديق المنشاوي</author>
+
+    <item>
+      <title>سورة الفاتحة - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/001.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm001</guid>
+    </item>
+
+    <item>
+      <title>سورة البقرة - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/002.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm002</guid>
+    </item>
+
+    <item>
+      <title>سورة آل عمران - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/003.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm003</guid>
+    </item>
+
+    <item>
+      <title>سورة النساء - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/004.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm004</guid>
+    </item>
+
+    <item>
+      <title>سورة المائدة - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/005.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm005</guid>
+    </item>
+
+    <item>
+      <title>سورة الأنعام - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/006.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm006</guid>
+    </item>
+
+    <item>
+      <title>سورة الأعراف - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/007.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm007</guid>
+    </item>
+
+    <item>
+      <title>سورة الأنفال - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/008.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm008</guid>
+    </item>
+
+    <item>
+      <title>سورة التوبة - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/009.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm009</guid>
+    </item>
+
+    <item>
+      <title>سورة يونس - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/010.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm010</guid>
+    </item>
+
+    <item>
+      <title>سورة هود - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/011.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm011</guid>
+    </item>
+
+    <item>
+      <title>سورة يوسف - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/012.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm012</guid>
+    </item>
+
+    <item>
+      <title>سورة الرعد - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/013.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm013</guid>
+    </item>
+
+    <item>
+      <title>سورة إبراهيم - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/014.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm014</guid>
+    </item>
+
+    <item>
+      <title>سورة الحجر - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/015.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm015</guid>
+    </item>
+
+    <item>
+      <title>سورة النحل - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/016.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm016</guid>
+    </item>
+
+    <item>
+      <title>سورة الإسراء - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/017.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm017</guid>
+    </item>
+
+    <item>
+      <title>سورة الكهف - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/018.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm018</guid>
+    </item>
+
+    <item>
+      <title>سورة مريم - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/019.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm019</guid>
+    </item>
+
+    <item>
+      <title>سورة طه - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/020.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm020</guid>
+    </item>
+
+    <item>
+      <title>سورة الأنبياء - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/021.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm021</guid>
+    </item>
+
+    <item>
+      <title>سورة الحج - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/022.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm022</guid>
+    </item>
+
+    <item>
+      <title>سورة المؤمنون - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/023.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm023</guid>
+    </item>
+
+    <item>
+      <title>سورة النور - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/024.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm024</guid>
+    </item>
+
+    <item>
+      <title>سورة الفرقان - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/025.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm025</guid>
+    </item>
+
+    <item>
+      <title>سورة الشعراء - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/026.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm026</guid>
+    </item>
+
+    <item>
+      <title>سورة النمل - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/027.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm027</guid>
+    </item>
+
+    <item>
+      <title>سورة القصص - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/028.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm028</guid>
+    </item>
+
+    <item>
+      <title>سورة العنكبوت - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/029.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm029</guid>
+    </item>
+
+    <item>
+      <title>سورة الروم - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/030.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm030</guid>
+    </item>
+
+    <item>
+      <title>سورة لقمان - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/031.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm031</guid>
+    </item>
+
+    <item>
+      <title>سورة السجدة - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/032.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm032</guid>
+    </item>
+
+    <item>
+      <title>سورة الأحزاب - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/033.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm033</guid>
+    </item>
+
+    <item>
+      <title>سورة سبأ - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/034.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm034</guid>
+    </item>
+
+    <item>
+      <title>سورة فاطر - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/035.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm035</guid>
+    </item>
+
+    <item>
+      <title>سورة يس - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/036.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm036</guid>
+    </item>
+
+    <item>
+      <title>سورة الصافات - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/037.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm037</guid>
+    </item>
+
+    <item>
+      <title>سورة ص - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/038.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm038</guid>
+    </item>
+
+    <item>
+      <title>سورة الزمر - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/039.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm039</guid>
+    </item>
+
+    <item>
+      <title>سورة غافر - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/040.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm040</guid>
+    </item>
+
+    <item>
+      <title>سورة فصلت - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/041.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm041</guid>
+    </item>
+
+    <item>
+      <title>سورة الشورى - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/042.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm042</guid>
+    </item>
+
+    <item>
+      <title>سورة الزخرف - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/043.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm043</guid>
+    </item>
+
+    <item>
+      <title>سورة الدخان - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/044.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm044</guid>
+    </item>
+
+    <item>
+      <title>سورة الجاثية - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/045.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm045</guid>
+    </item>
+
+    <item>
+      <title>سورة الأحقاف - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/046.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm046</guid>
+    </item>
+
+    <item>
+      <title>سورة محمد - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/047.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm047</guid>
+    </item>
+
+    <item>
+      <title>سورة الفتح - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/048.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm048</guid>
+    </item>
+
+    <item>
+      <title>سورة الحجرات - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/049.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm049</guid>
+    </item>
+
+    <item>
+      <title>سورة ق - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/050.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm050</guid>
+    </item>
+
+    <item>
+      <title>سورة الذاريات - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/051.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm051</guid>
+    </item>
+
+    <item>
+      <title>سورة الطور - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/052.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm052</guid>
+    </item>
+
+    <item>
+      <title>سورة النجم - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/053.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm053</guid>
+    </item>
+
+    <item>
+      <title>سورة القمر - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/054.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm054</guid>
+    </item>
+
+    <item>
+      <title>سورة الرحمن - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/055.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm055</guid>
+    </item>
+
+    <item>
+      <title>سورة الواقعة - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/056.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm056</guid>
+    </item>
+
+    <item>
+      <title>سورة الحديد - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/057.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm057</guid>
+    </item>
+
+    <item>
+      <title>سورة المجادلة - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/058.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm058</guid>
+    </item>
+
+    <item>
+      <title>سورة الحشر - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/059.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm059</guid>
+    </item>
+
+    <item>
+      <title>سورة الممتحنة - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/060.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm060</guid>
+    </item>
+
+    <item>
+      <title>سورة الصف - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/061.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm061</guid>
+    </item>
+
+    <item>
+      <title>سورة الجمعة - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/062.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm062</guid>
+    </item>
+
+    <item>
+      <title>سورة المنافقون - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/063.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm063</guid>
+    </item>
+
+    <item>
+      <title>سورة التغابن - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/064.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm064</guid>
+    </item>
+
+    <item>
+      <title>سورة الطلاق - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/065.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm065</guid>
+    </item>
+
+    <item>
+      <title>سورة التحريم - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/066.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm066</guid>
+    </item>
+
+    <item>
+      <title>سورة الملك - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/067.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm067</guid>
+    </item>
+
+    <item>
+      <title>سورة القلم - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/068.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm068</guid>
+    </item>
+
+    <item>
+      <title>سورة الحاقة - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/069.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm069</guid>
+    </item>
+
+    <item>
+      <title>سورة المعارج - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/070.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm070</guid>
+    </item>
+
+    <item>
+      <title>سورة نوح - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/071.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm071</guid>
+    </item>
+
+    <item>
+      <title>سورة الجن - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/072.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm072</guid>
+    </item>
+
+    <item>
+      <title>سورة المزمل - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/073.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm073</guid>
+    </item>
+
+    <item>
+      <title>سورة المدثر - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/074.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm074</guid>
+    </item>
+
+    <item>
+      <title>سورة القيامة - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/075.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm075</guid>
+    </item>
+
+    <item>
+      <title>سورة الإنسان - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/076.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm076</guid>
+    </item>
+
+    <item>
+      <title>سورة المرسلات - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/077.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm077</guid>
+    </item>
+
+    <item>
+      <title>سورة النبأ - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/078.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm078</guid>
+    </item>
+
+    <item>
+      <title>سورة النازعات - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/079.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm079</guid>
+    </item>
+
+    <item>
+      <title>سورة عبس - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/080.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm080</guid>
+    </item>
+
+    <item>
+      <title>سورة التكوير - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/081.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm081</guid>
+    </item>
+
+    <item>
+      <title>سورة الانفطار - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/082.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm082</guid>
+    </item>
+
+    <item>
+      <title>سورة المطففين - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/083.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm083</guid>
+    </item>
+
+    <item>
+      <title>سورة الانشقاق - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/084.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm084</guid>
+    </item>
+
+    <item>
+      <title>سورة البروج - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/085.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm085</guid>
+    </item>
+
+    <item>
+      <title>سورة الطارق - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/086.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm086</guid>
+    </item>
+
+    <item>
+      <title>سورة الأعلى - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/087.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm087</guid>
+    </item>
+
+    <item>
+      <title>سورة الغاشية - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/088.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm088</guid>
+    </item>
+
+    <item>
+      <title>سورة الفجر - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/089.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm089</guid>
+    </item>
+
+    <item>
+      <title>سورة البلد - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/090.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm090</guid>
+    </item>
+
+    <item>
+      <title>سورة الشمس - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/091.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm091</guid>
+    </item>
+
+    <item>
+      <title>سورة الليل - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/092.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm092</guid>
+    </item>
+
+    <item>
+      <title>سورة الضحى - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/093.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm093</guid>
+    </item>
+
+    <item>
+      <title>سورة الشرح - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/094.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm094</guid>
+    </item>
+
+    <item>
+      <title>سورة التين - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/095.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm095</guid>
+    </item>
+
+    <item>
+      <title>سورة العلق - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/096.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm096</guid>
+    </item>
+
+    <item>
+      <title>سورة القدر - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/097.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm097</guid>
+    </item>
+
+    <item>
+      <title>سورة البينة - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/098.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm098</guid>
+    </item>
+
+    <item>
+      <title>سورة الزلزلة - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/099.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm099</guid>
+    </item>
+
+    <item>
+      <title>سورة العاديات - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/100.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm100</guid>
+    </item>
+
+    <item>
+      <title>سورة القارعة - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/101.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm101</guid>
+    </item>
+
+    <item>
+      <title>سورة التكاثر - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/102.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm102</guid>
+    </item>
+
+    <item>
+      <title>سورة العصر - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/103.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm103</guid>
+    </item>
+
+    <item>
+      <title>سورة الهمزة - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/104.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm104</guid>
+    </item>
+
+    <item>
+      <title>سورة الفيل - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/105.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm105</guid>
+    </item>
+
+    <item>
+      <title>سورة قريش - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/106.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm106</guid>
+    </item>
+
+    <item>
+      <title>سورة الماعون - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/107.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm107</guid>
+    </item>
+
+    <item>
+      <title>سورة الكوثر - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/108.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm108</guid>
+    </item>
+
+    <item>
+      <title>سورة الكافرون - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/109.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm109</guid>
+    </item>
+
+    <item>
+      <title>سورة النصر - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/110.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm110</guid>
+    </item>
+
+    <item>
+      <title>سورة المسد - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/111.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm111</guid>
+    </item>
+
+    <item>
+      <title>سورة الإخلاص - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/112.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm112</guid>
+    </item>
+
+    <item>
+      <title>سورة الفلق - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/113.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm113</guid>
+    </item>
+
+    <item>
+      <title>سورة الناس - المنشاوي (المصحف المعلم)</title>
+      <enclosure url="https://server8.mp3quran.net/minsh_molm/114.mp3" length="0" type="audio/mpeg"/>
+      <guid>minsh_molm114</guid>
+    </item>
+
+  </channel>
+</rss>
