@@ -1,694 +1,694 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>المصحف المعلم - الشيخ محمد صديق المنشاوي</title>
-    <link>https://example.com/</link>
-    <description>المصحف المعلم (ترديد الأطفال) كامل بصوت الشيخ محمد صديق المنشاوي - رواية حفص عن عاصم</description>
-    <language>ar</language>
-    <author>محمد صديق المنشاوي</author>
+    <title>Qur'aana Kanaafi - Hiikkaa Afaan Oromoo (Qur'aana Kanaafi)</title>
+    <link>https://archive.org/details/quraninoromignatranslation</link>
+    <description>Dubbisa Qur'aanaa fi hiikkaa isaa afaan oromootiin (MP3). Suuraawwan 114 hunda of keessaa qaba.</description>
+    <language>om</language>
+    <author>Qur'aana Kanaafi</author>
 
     <item>
-      <title>سورة الفاتحة - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/001.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm001</guid>
+      <title>Suuraa Al-Faatiha (001) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/001.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/001.mp3</guid>
     </item>
 
     <item>
-      <title>سورة البقرة - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/002.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm002</guid>
+      <title>Suuraa Al-Baqara (002) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/002.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/002.mp3</guid>
     </item>
 
     <item>
-      <title>سورة آل عمران - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/003.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm003</guid>
+      <title>Suuraa Aal-Iimraan (003) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/003.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/003.mp3</guid>
     </item>
 
     <item>
-      <title>سورة النساء - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/004.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm004</guid>
+      <title>Suuraa An-Nisaa (004) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/004.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/004.mp3</guid>
     </item>
 
     <item>
-      <title>سورة المائدة - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/005.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm005</guid>
+      <title>Suuraa Al-Maa'ida (005) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/005.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/005.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الأنعام - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/006.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm006</guid>
+      <title>Suuraa Al-An'aam (006) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/006.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/006.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الأعراف - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/007.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm007</guid>
+      <title>Suuraa Al-A'raaf (007) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/007.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/007.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الأنفال - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/008.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm008</guid>
+      <title>Suuraa Al-Anfaal (008) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/008.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/008.mp3</guid>
     </item>
 
     <item>
-      <title>سورة التوبة - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/009.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm009</guid>
+      <title>Suuraa At-Tawba (009) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/009.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/009.mp3</guid>
     </item>
 
     <item>
-      <title>سورة يونس - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/010.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm010</guid>
+      <title>Suuraa Yuunus (010) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/010.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/010.mp3</guid>
     </item>
 
     <item>
-      <title>سورة هود - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/011.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm011</guid>
+      <title>Suuraa Huud (011) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/011.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/011.mp3</guid>
     </item>
 
     <item>
-      <title>سورة يوسف - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/012.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm012</guid>
+      <title>Suuraa Yuusuf (012) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/012.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/012.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الرعد - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/013.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm013</guid>
+      <title>Suuraa Ar-Ra'd (013) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/013.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/013.mp3</guid>
     </item>
 
     <item>
-      <title>سورة إبراهيم - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/014.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm014</guid>
+      <title>Suuraa Ibraahiim (014) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/014.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/014.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الحجر - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/015.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm015</guid>
+      <title>Suuraa Al-Hijr (015) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/015.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/015.mp3</guid>
     </item>
 
     <item>
-      <title>سورة النحل - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/016.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm016</guid>
+      <title>Suuraa An-Nahl (016) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/016.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/016.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الإسراء - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/017.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm017</guid>
+      <title>Suuraa Al-Israa (017) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/017.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/017.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الكهف - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/018.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm018</guid>
+      <title>Suuraa Al-Kahf (018) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/018.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/018.mp3</guid>
     </item>
 
     <item>
-      <title>سورة مريم - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/019.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm019</guid>
+      <title>Suuraa Maryam (019) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/019.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/019.mp3</guid>
     </item>
 
     <item>
-      <title>سورة طه - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/020.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm020</guid>
+      <title>Suuraa Taa-Haa (020) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/020.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/020.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الأنبياء - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/021.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm021</guid>
+      <title>Suuraa Al-Anbiyaa (021) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/021.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/021.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الحج - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/022.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm022</guid>
+      <title>Suuraa Al-Hajj (022) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/022.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/022.mp3</guid>
     </item>
 
     <item>
-      <title>سورة المؤمنون - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/023.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm023</guid>
+      <title>Suuraa Al-Mu'minuun (023) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/023.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/023.mp3</guid>
     </item>
 
     <item>
-      <title>سورة النور - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/024.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm024</guid>
+      <title>Suuraa An-Nuur (024) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/024.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/024.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الفرقان - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/025.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm025</guid>
+      <title>Suuraa Al-Furqaan (025) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/025.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/025.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الشعراء - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/026.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm026</guid>
+      <title>Suuraa Ash-Shu'araa (026) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/026.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/026.mp3</guid>
     </item>
 
     <item>
-      <title>سورة النمل - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/027.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm027</guid>
+      <title>Suuraa An-Naml (027) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/027.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/027.mp3</guid>
     </item>
 
     <item>
-      <title>سورة القصص - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/028.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm028</guid>
+      <title>Suuraa Al-Qasas (028) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/028.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/028.mp3</guid>
     </item>
 
     <item>
-      <title>سورة العنكبوت - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/029.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm029</guid>
+      <title>Suuraa Al-Ankabuut (029) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/029.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/029.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الروم - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/030.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm030</guid>
+      <title>Suuraa Ar-Ruum (030) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/030.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/030.mp3</guid>
     </item>
 
     <item>
-      <title>سورة لقمان - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/031.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm031</guid>
+      <title>Suuraa Luqmaan (031) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/031.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/031.mp3</guid>
     </item>
 
     <item>
-      <title>سورة السجدة - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/032.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm032</guid>
+      <title>Suuraa As-Sajda (032) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/032.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/032.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الأحزاب - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/033.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm033</guid>
+      <title>Suuraa Al-Ahzaab (033) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/033.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/033.mp3</guid>
     </item>
 
     <item>
-      <title>سورة سبأ - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/034.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm034</guid>
+      <title>Suuraa Saba' (034) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/034.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/034.mp3</guid>
     </item>
 
     <item>
-      <title>سورة فاطر - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/035.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm035</guid>
+      <title>Suuraa Faatir (035) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/035.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/035.mp3</guid>
     </item>
 
     <item>
-      <title>سورة يس - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/036.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm036</guid>
+      <title>Suuraa Yaa-Siin (036) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/036.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/036.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الصافات - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/037.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm037</guid>
+      <title>Suuraa As-Saaffaat (037) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/037.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/037.mp3</guid>
     </item>
 
     <item>
-      <title>سورة ص - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/038.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm038</guid>
+      <title>Suuraa Saad (038) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/038.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/038.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الزمر - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/039.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm039</guid>
+      <title>Suuraa Az-Zumar (039) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/039.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/039.mp3</guid>
     </item>
 
     <item>
-      <title>سورة غافر - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/040.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm040</guid>
+      <title>Suuraa Al-Ghaafir (040) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/040.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/040.mp3</guid>
     </item>
 
     <item>
-      <title>سورة فصلت - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/041.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm041</guid>
+      <title>Suuraa Fussilat (041) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/041.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/041.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الشورى - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/042.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm042</guid>
+      <title>Suuraa Ash-Shuuraa (042) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/042.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/042.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الزخرف - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/043.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm043</guid>
+      <title>Suuraa Az-Zukhruf (043) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/043.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/043.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الدخان - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/044.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm044</guid>
+      <title>Suuraa Ad-Dukhaan (044) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/044.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/044.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الجاثية - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/045.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm045</guid>
+      <title>Suuraa Al-Jaathiya (045) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/045.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/045.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الأحقاف - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/046.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm046</guid>
+      <title>Suuraa Al-Ahqaaf (046) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/046.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/046.mp3</guid>
     </item>
 
     <item>
-      <title>سورة محمد - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/047.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm047</guid>
+      <title>Suuraa Muhammad (047) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/047.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/047.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الفتح - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/048.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm048</guid>
+      <title>Suuraa Al-Fath (048) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/048.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/048.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الحجرات - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/049.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm049</guid>
+      <title>Suuraa Al-Hujuraat (049) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/049.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/049.mp3</guid>
     </item>
 
     <item>
-      <title>سورة ق - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/050.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm050</guid>
+      <title>Suuraa Qaaf (050) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/050.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/050.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الذاريات - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/051.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm051</guid>
+      <title>Suuraa Adh-Dhaariyaat (051) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/051.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/051.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الطور - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/052.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm052</guid>
+      <title>Suuraa At-Tuur (052) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/052.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/052.mp3</guid>
     </item>
 
     <item>
-      <title>سورة النجم - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/053.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm053</guid>
+      <title>Suuraa An-Najm (053) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/053.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/053.mp3</guid>
     </item>
 
     <item>
-      <title>سورة القمر - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/054.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm054</guid>
+      <title>Suuraa Al-Qamar (054) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/054.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/054.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الرحمن - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/055.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm055</guid>
+      <title>Suuraa Ar-Rahmaan (055) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/055.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/055.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الواقعة - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/056.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm056</guid>
+      <title>Suuraa Al-Waaqi'a (056) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/056.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/056.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الحديد - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/057.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm057</guid>
+      <title>Suuraa Al-Hadiid (057) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/057.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/057.mp3</guid>
     </item>
 
     <item>
-      <title>سورة المجادلة - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/058.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm058</guid>
+      <title>Suuraa Al-Mujaadila (058) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/058.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/058.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الحشر - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/059.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm059</guid>
+      <title>Suuraa Al-Hashr (059) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/059.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/059.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الممتحنة - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/060.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm060</guid>
+      <title>Suuraa Al-Mumtahana (060) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/060.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/060.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الصف - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/061.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm061</guid>
+      <title>Suuraa As-Saff (061) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/061.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/061.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الجمعة - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/062.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm062</guid>
+      <title>Suuraa Al-Jumu'a (062) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/062.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/062.mp3</guid>
     </item>
 
     <item>
-      <title>سورة المنافقون - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/063.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm063</guid>
+      <title>Suuraa Al-Munaafiqhuun (063) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/063.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/063.mp3</guid>
     </item>
 
     <item>
-      <title>سورة التغابن - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/064.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm064</guid>
+      <title>Suuraa At-Taghaabun (064) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/064.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/064.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الطلاق - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/065.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm065</guid>
+      <title>Suuraa At-Talaaq (065) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/065.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/065.mp3</guid>
     </item>
 
     <item>
-      <title>سورة التحريم - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/066.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm066</guid>
+      <title>Suuraa At-Tahriim (066) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/066.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/066.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الملك - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/067.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm067</guid>
+      <title>Suuraa Al-Mulk (067) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/067.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/067.mp3</guid>
     </item>
 
     <item>
-      <title>سورة القلم - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/068.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm068</guid>
+      <title>Suuraa Al-Qalam (068) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/068.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/068.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الحاقة - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/069.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm069</guid>
+      <title>Suuraa Al-Haaqqa (069) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/069.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/069.mp3</guid>
     </item>
 
     <item>
-      <title>سورة المعارج - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/070.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm070</guid>
+      <title>Suuraa Al-Ma'aarij (070) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/070.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/070.mp3</guid>
     </item>
 
     <item>
-      <title>سورة نوح - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/071.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm071</guid>
+      <title>Suuraa Nuuh (071) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/071.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/071.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الجن - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/072.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm072</guid>
+      <title>Suuraa Al-Jinn (072) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/072.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/072.mp3</guid>
     </item>
 
     <item>
-      <title>سورة المزمل - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/073.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm073</guid>
+      <title>Suuraa Al-Muzzammil (073) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/073.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/073.mp3</guid>
     </item>
 
     <item>
-      <title>سورة المدثر - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/074.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm074</guid>
+      <title>Suuraa Al-Muddaththir (074) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/074.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/074.mp3</guid>
     </item>
 
     <item>
-      <title>سورة القيامة - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/075.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm075</guid>
+      <title>Suuraa Al-Qiyaama (075) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/075.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/075.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الإنسان - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/076.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm076</guid>
+      <title>Suuraa Al-Insaan (076) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/076.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/076.mp3</guid>
     </item>
 
     <item>
-      <title>سورة المرسلات - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/077.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm077</guid>
+      <title>Suuraa Al-Mursalaat (077) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/077.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/077.mp3</guid>
     </item>
 
     <item>
-      <title>سورة النبأ - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/078.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm078</guid>
+      <title>Suuraa An-Naba' (078) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/078.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/078.mp3</guid>
     </item>
 
     <item>
-      <title>سورة النازعات - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/079.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm079</guid>
+      <title>Suuraa An-Naazi'aat (079) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/079.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/079.mp3</guid>
     </item>
 
     <item>
-      <title>سورة عبس - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/080.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm080</guid>
+      <title>Suuraa 'Abasa (080) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/080.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/080.mp3</guid>
     </item>
 
     <item>
-      <title>سورة التكوير - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/081.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm081</guid>
+      <title>Suuraa At-Takwiir (081) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/081.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/081.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الانفطار - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/082.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm082</guid>
+      <title>Suuraa Al-Infitaar (082) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/082.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/082.mp3</guid>
     </item>
 
     <item>
-      <title>سورة المطففين - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/083.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm083</guid>
+      <title>Suuraa Al-Mutaffifiin (083) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/083.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/083.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الانشقاق - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/084.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm084</guid>
+      <title>Suuraa Al-Inshiqaaq (084) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/084.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/084.mp3</guid>
     </item>
 
     <item>
-      <title>سورة البروج - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/085.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm085</guid>
+      <title>Suuraa Al-Buruuj (085) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/085.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/085.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الطارق - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/086.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm086</guid>
+      <title>Suuraa At-Taariq (086) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/086.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/086.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الأعلى - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/087.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm087</guid>
+      <title>Suuraa Al-A'laa (087) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/087.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/087.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الغاشية - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/088.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm088</guid>
+      <title>Suuraa Al-Ghaashiya (088) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/088.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/088.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الفجر - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/089.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm089</guid>
+      <title>Suuraa Al-Fajr (089) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/089.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/089.mp3</guid>
     </item>
 
     <item>
-      <title>سورة البلد - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/090.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm090</guid>
+      <title>Suuraa Al-Balad (090) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/090.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/090.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الشمس - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/091.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm091</guid>
+      <title>Suuraa Ash-Shams (091) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/091.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/091.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الليل - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/092.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm092</guid>
+      <title>Suuraa Al-Layl (092) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/092.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/092.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الضحى - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/093.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm093</guid>
+      <title>Suuraa Ad-Duhaa (093) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/093.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/093.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الشرح - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/094.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm094</guid>
+      <title>Suuraa Ash-Sharh (094) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/094.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/094.mp3</guid>
     </item>
 
     <item>
-      <title>سورة التين - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/095.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm095</guid>
+      <title>Suuraa At-Tiin (095) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/095.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/095.mp3</guid>
     </item>
 
     <item>
-      <title>سورة العلق - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/096.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm096</guid>
+      <title>Suuraa Al-'Alaq (096) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/096.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/096.mp3</guid>
     </item>
 
     <item>
-      <title>سورة القدر - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/097.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm097</guid>
+      <title>Suuraa Al-Qadr (097) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/097.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/097.mp3</guid>
     </item>
 
     <item>
-      <title>سورة البينة - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/098.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm098</guid>
+      <title>Suuraa Al-Bayyina (098) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/098.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/098.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الزلزلة - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/099.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm099</guid>
+      <title>Suuraa Az-Zalzala (099) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/099.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/099.mp3</guid>
     </item>
 
     <item>
-      <title>سورة العاديات - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/100.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm100</guid>
+      <title>Suuraa Al-'Aadiyaat (100) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/100.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/100.mp3</guid>
     </item>
 
     <item>
-      <title>سورة القارعة - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/101.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm101</guid>
+      <title>Suuraa Al-Qaari'a (101) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/101.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/101.mp3</guid>
     </item>
 
     <item>
-      <title>سورة التكاثر - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/102.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm102</guid>
+      <title>Suuraa At-Takaathur (102) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/102.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/102.mp3</guid>
     </item>
 
     <item>
-      <title>سورة العصر - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/103.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm103</guid>
+      <title>Suuraa Al-'Asr (103) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/103.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/103.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الهمزة - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/104.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm104</guid>
+      <title>Suuraa Al-Humaza (104) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/104.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/104.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الفيل - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/105.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm105</guid>
+      <title>Suuraa Al-Fiil (105) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/105.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/105.mp3</guid>
     </item>
 
     <item>
-      <title>سورة قريش - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/106.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm106</guid>
+      <title>Suuraa Quraysh (106) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/106.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/106.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الماعون - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/107.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm107</guid>
+      <title>Suuraa Al-Maa'uun (107) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/107.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/107.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الكوثر - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/108.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm108</guid>
+      <title>Suuraa Al-Kawthar (108) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/108.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/108.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الكافرون - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/109.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm109</guid>
+      <title>Suuraa Al-Kaafiruun (109) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/109.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/109.mp3</guid>
     </item>
 
     <item>
-      <title>سورة النصر - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/110.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm110</guid>
+      <title>Suuraa An-Nasr (110) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/110.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/110.mp3</guid>
     </item>
 
     <item>
-      <title>سورة المسد - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/111.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm111</guid>
+      <title>Suuraa Al-Masad (111) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/111.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/111.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الإخلاص - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/112.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm112</guid>
+      <title>Suuraa Al-Ikhlaas (112) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/112.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/112.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الفلق - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/113.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm113</guid>
+      <title>Suuraa Al-Falaq (113) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/113.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/113.mp3</guid>
     </item>
 
     <item>
-      <title>سورة الناس - المنشاوي (المصحف المعلم)</title>
-      <enclosure url="https://server8.mp3quran.net/minsh_molm/114.mp3" length="0" type="audio/mpeg"/>
-      <guid>minsh_molm114</guid>
+      <title>Suuraa An-Naas (114) - Hiikkaa waliin</title>
+      <enclosure url="https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/114.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://dn720006.ca.archive.org/0/items/quraninoromignatranslation/114.mp3</guid>
     </item>
 
   </channel>
